@@ -10,7 +10,7 @@
     "Firebase"
   ],
   "devDependencies": {
-    "@pankod/refine-core": "^3.95.3",
+    "@refinedev/core": "^4.24.0",
     "@types/uuid": "^8.3.1",
     "typescript": "^4.9.4"
   },
